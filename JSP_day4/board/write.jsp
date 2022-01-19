@@ -24,7 +24,7 @@
 	 	<p>제목<input type="text" name="b_title"></p>
 	 	<p>내용</p>
 	 	<p><textarea name="b_content" rows="5" column="40"></textarea></p>
-	 	<p><input type="submit" value="등록"> <input type="reset" value="다시작성"> <input type="button" value="리스트" onclick="location.href='list.jsp'"> </p>
+	 	<p><input type="submit" value="등록"> <input type="reset" value="다시작성"> <input type="button" value="리스트" onclick="location.href='list.jsp'"></p>
 	 </form>
 </body>
 </html>
