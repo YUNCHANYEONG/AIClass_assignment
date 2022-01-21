@@ -4,7 +4,6 @@
 <jsp:useBean class="com.koreait.member.MemberDTO" id="member"/>
 <jsp:setProperty property="userid" name="member"/>
 <jsp:setProperty property="userpw" name="member"/>
-<jsp:setProperty property="username" name="member"/>
 
 <jsp:useBean class="com.koreait.member.MemberDAO" id="memberDAO"/>
 <%
